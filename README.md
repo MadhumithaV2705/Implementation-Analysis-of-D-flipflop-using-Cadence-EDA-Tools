@@ -41,7 +41,7 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 ## Circuit Diagram
 
 ### 1. Schematic of D Flip-Flop
-*![IMG-20241019-WA0012](https://github.com/user-attachments/assets/34ba817f-3261-4ea3-b4e2-6be450b2207d)*
+![Screenshot (222)](https://github.com/user-attachments/assets/5c87dc19-00d2-441f-ade5-e39e16d2c49b)
 
 ### 2. Transient Response Setup
 *
